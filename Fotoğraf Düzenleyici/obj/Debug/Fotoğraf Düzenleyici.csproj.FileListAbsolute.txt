@@ -1,0 +1,11 @@
+C:\Users\Emnn\Desktop\Emnn\C#\Fotoğraf Düzenleyici\bin\Debug\Fotoğraf Düzenleyici.exe.config
+C:\Users\Emnn\Desktop\Emnn\C#\Fotoğraf Düzenleyici\bin\Debug\Fotoğraf Düzenleyici.exe
+C:\Users\Emnn\Desktop\Emnn\C#\Fotoğraf Düzenleyici\bin\Debug\Fotoğraf Düzenleyici.pdb
+C:\Users\Emnn\Desktop\Emnn\C#\Fotoğraf Düzenleyici\obj\Debug\Fotoğraf Düzenleyici.csproj.AssemblyReference.cache
+C:\Users\Emnn\Desktop\Emnn\C#\Fotoğraf Düzenleyici\obj\Debug\Fotoğraf Düzenleyici.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emnn\Desktop\Emnn\C#\Fotoğraf Düzenleyici\obj\Debug\Fotoğraf_Düzenleyici.Form1.resources
+C:\Users\Emnn\Desktop\Emnn\C#\Fotoğraf Düzenleyici\obj\Debug\Fotoğraf_Düzenleyici.Properties.Resources.resources
+C:\Users\Emnn\Desktop\Emnn\C#\Fotoğraf Düzenleyici\obj\Debug\Fotoğraf Düzenleyici.csproj.GenerateResource.cache
+C:\Users\Emnn\Desktop\Emnn\C#\Fotoğraf Düzenleyici\obj\Debug\Fotoğraf Düzenleyici.csproj.CoreCompileInputs.cache
+C:\Users\Emnn\Desktop\Emnn\C#\Fotoğraf Düzenleyici\obj\Debug\Fotoğraf Düzenleyici.exe
+C:\Users\Emnn\Desktop\Emnn\C#\Fotoğraf Düzenleyici\obj\Debug\Fotoğraf Düzenleyici.pdb
